@@ -10,7 +10,8 @@ MuonMatchingDeltaR  0.3
 ElectronMatchingDeltaR  0.3
 TauMatchingDeltaR  0.3
 
-
+DiscrByDphi1 true
+Dphi1CutMet 0.7 9999.5
 
 ########################################
                Jet1
@@ -45,6 +46,8 @@ BJMatchingDeltaR 0.4
 
 Apply2017EEnoiseVeto false
 
+DiscrByDphi1 true
+Dphi1CutMet 0.7 9999.5
 ########################################
 	        Jet2
 #######################################
@@ -78,6 +81,8 @@ BJMatchingDeltaR 0.4
 
 Apply2017EEnoiseVeto false
 
+DiscrByDphi1 true
+Dphi1CutMet 0.7 9999.5
 ####################################
           CentralJet
 ###################################
@@ -103,6 +108,9 @@ Tau1MatchingDeltaR 0.4
 Tau2MatchingDeltaR 0.4
 
 Apply2017EEnoiseVeto false
+
+DiscrByDphi1 true
+Dphi1CutMet 0.7 9999.5
 
 ####################################
 	 FirstLeadingJet
@@ -164,6 +172,9 @@ Tau1MatchingDeltaR 0.3
 Tau2MatchingDeltaR 0.3
 
 Apply2017EEnoiseVeto false
+
+DiscrByDphi1 true
+Dphi1CutMet 0.7 9999.5
 
 ###################################
     	     BJet
